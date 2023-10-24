@@ -11,7 +11,7 @@ const vizContainer = document.getElementById("vizContainer");
 const options = {
     device: "desktop",
     height: "800px",
-    width: "1100px"
+    width: "1024px"
 };
 
 // #3 create a variable to store the URL
